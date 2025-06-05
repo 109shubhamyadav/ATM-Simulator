@@ -25,14 +25,3 @@ A simple Java console-based ATM machine simulation program.
 - Invalid PIN or invalid menu options are handled with error messages.
 - The program loops until the user selects the exit option.
 
-## Requirements
-
-- Java Development Kit (JDK) 8 or higher
-
-## How to Run
-
-Compile and run the program using the command line:
-
-```bash
-javac ATMSimulator.java
-java ATMSimulator
